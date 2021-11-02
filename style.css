@@ -9,10 +9,9 @@ body {
 .focus-only:focus {
     outline: 2px solid black;
   }
-a,
+a, 
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
 }
 
 a:hover {
