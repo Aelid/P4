@@ -8,6 +8,7 @@ body {
 }
 div:focus {
     font-weight: bold;
+    border-color:red;
 }
 a,
 button {
