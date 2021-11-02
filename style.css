@@ -1079,3 +1079,7 @@ h4 {
         background-image: none;
     }
 }
+.nom:focus {
+    background: rgb(0, 26, 255);
+    color: lime;
+  }
